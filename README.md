@@ -1,6 +1,6 @@
 
 
-# SpaCP: Learning Spatial Counterfactual Perturbation Effects via Context-Aware Flow Matching
+# SpaCP: Learning Spatial Counterfactual Perturbation Effects via Context-Aware Generative Modeling
 
 This repository includes scripts and Jupyter notebooks for SpaCP, which are necessary to reproduce the benchmarking results presented in the paper. The notebook contains the corresponding experimental data, and all results can be regenerated using the provided scripts for the different methods. For more details, refer to the original repository: [SpaCP tutorial](https://github.com/Yhaokaf/SpaCP/tree/master/tutorial)
 
