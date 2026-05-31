@@ -48,3 +48,16 @@ We provide tutorials for SpaCP applications.
 
 [run_SpaCP_test_perturbMap.ipynb](https://github.com/Yhaokaf/SpaCP/tree/master/tutorial)
 
+## Citation
+
+If you find our codes useful, please consider citing our work:
+
+~~~bibtex
+@article{SpaCP,
+  title={Learning Spatial Counterfactual Perturbation Effects via Context-Aware Generative Modeling},
+  author={Yongkang Zhao, Haoxuan Li, Zheng Wang, Yuansong Zeng},
+  journal={BioRxiv},
+  year={2026},
+}
+~~~
+
